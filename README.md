@@ -1,8 +1,8 @@
-#Jawab Pertanyaan Berikut
-#1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
+# Jawab Pertanyaan Berikut
+# 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 error ketika terjadi kesalahan penulisan tag?
 
-#2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+# 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
 
 # Langkah - langkah
 Persiapan Membuka VScode dan Browser
@@ -20,6 +20,7 @@ Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firef
 
 <p> </p>
 ![imag](https://github.com/fdlhrauf/Lab1Web/blob/main/images/Screenshot%20(64).png)
+
 ![imag](https://github.com/fdlhrauf/Lab1Web/blob/main/images/Screenshot%20(70).png)
 
 2. Membuat Paragraf Baru <br> </br>
