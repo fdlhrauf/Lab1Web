@@ -19,6 +19,7 @@ Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firef
   Membuat Judul : <h1>Belajar Dasar HTML</h1>
 
 <p> </p>
+
 ![imag](https://github.com/fdlhrauf/Lab1Web/blob/main/images/Screenshot%20(64).png)
 
 ![imag](https://github.com/fdlhrauf/Lab1Web/blob/main/images/Screenshot%20(70).png)
