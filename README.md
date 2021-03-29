@@ -2,7 +2,7 @@
 # 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 # perubahan kode ada pada langkah-langkah dibawah ini.
 
-# 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+# 2. Apa perbedaan dari tag < p > dengan tag <br>, berikan penjelasannya!
 
 # Langkah - langkah
 Persiapan Membuka VScode dan Browser
