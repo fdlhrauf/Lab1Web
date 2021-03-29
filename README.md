@@ -1,6 +1,6 @@
 # Jawab Pertanyaan Berikut
 # 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
-error ketika terjadi kesalahan penulisan tag?
+# perubahan kode ada pada langkah-langkah dibawah ini.
 
 # 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
 
