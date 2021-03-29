@@ -2,7 +2,14 @@
 # 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
 # perubahan kode ada pada langkah-langkah dibawah ini.
 
-# 2. Apa perbedaan dari tag < p > dengan tag <br>, berikan penjelasannya!
+# 2. Apa perbedaan dari tag < p > dengan tag < br >, berikan penjelasannya!
+  # Tag < p >
+   # Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak. Tag ini merupakan tag yang berpasangan, dimulai dengan tag pembuka < p > dan diakhiri dengan tag penutup< p/ > . 
+  # Tag < br >
+   # Tag < br >  bisa dibilang sebagai tag sendiri, kenapa saya katakan sendiri , karena tag ini adalah tag tunggal tanpa diawali tag pembuka dan diakhiri tag penutup. Ia berdiri sendiri. Tag < br >  dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru.
+
+# Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk. Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag < br > , tapi jika sobat ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka bungkuslah paragraf baru tersebut dengan sepasang tag < p >  dan < /p >
+
 
 # Langkah - langkah
 Persiapan Membuka VScode dan Browser
