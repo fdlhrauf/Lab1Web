@@ -28,7 +28,7 @@
 # 1.) Membuat Paragraf Pertama dan Paragraf Kedua
   # Membuat Judul : < h1 >Belajar Dasar HTML< /h1 >
 
-< p > < /p >
+# < p > < /p >
 
 ![imag](https://github.com/fdlhrauf/Lab1Web/blob/main/images/Screenshot%20(64).png)
 
@@ -56,12 +56,12 @@
   
  # 4.) Menyisipkan Gambar
   
-    < !-- menambahkan gambar pada dokumen -- >
+   # < !-- menambahkan gambar pada dokumen -- >
 # < h1 >Me nambahkan Gambar< /h1 >
 # < h3 >Logo Universitas Pelita Bangsa< /h3 >
-# Hasilnya :
+# Dengan Cara :
 
-<img src="Capture.jpg" width="200" title="Logo Univeritas Pelita Bangsa">
+   # <img src=" Capture.jpg " width="200" title=" Logo Univeritas Pelita Bangsa">
 
 # Gambar Pada Bagian Bawah
 
@@ -69,14 +69,14 @@
 
 # 5.) Menambahkan Hyperlink
 
-    <!-- menambahkan link navigasi -->
+   # < !-- menambahkan link navigasi -- >
    # < nav >
-       < a href="lab1_tag_dasar.html">Dasar HTML</a>
-       < a href="lab1_halaman2.html">Halaman 2< /a >
-       < a href="http://www.google.com">Halaman Web Eksternal Google< /a >
-    < /nav >
+   # < a href="lab1_tag_dasar.html">Dasar HTML< /a >
+   # < a href="lab1_halaman2.html">Halaman 2< /a >
+   # < a href="http://www.google.com">Halaman Web Eksternal Google< /a >
+   # < /nav >
     
-     ![imag](https://github.com/fdlhrauf/Lab1Web/blob/main/images/Screenshot%20(81).png)
+   ![imag](https://github.com/fdlhrauf/Lab1Web/blob/main/images/Screenshot20(81).png)
      
 # (3) Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
 # Jwb :
