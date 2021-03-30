@@ -76,7 +76,7 @@
    # < a href="http://www.google.com">Halaman Web Eksternal Google< /a >
    # < /nav >
     
-   ![imag](https://github.com/fdlhrauf/Lab1Web/blob/main/images/Screenshot20(81).png)
+   ![imag](https://github.com/fdlhrauf/Lab1Web/blob/main/images/Screenshot%20(78).png)
      
 # (3) Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
 # Jwb :
